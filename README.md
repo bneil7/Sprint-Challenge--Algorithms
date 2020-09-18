@@ -59,6 +59,7 @@ You have been given a robot with very basic capabilities:
 - It can pick up an item
   - If it tries to pick up an item while already holding one, it will swap the items instead.
 - It can compare the item it's holding to the item in front of it.
+  (So, basically bubble sort then)
 - It can switch a light on its head on or off.
 
 Your task is to program this robot to sort lists using ONLY these abilities.
